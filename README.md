@@ -31,7 +31,6 @@
 visual_vibes/
 │
 ├── lib/
-│   ├── models/             # Data models
 │   ├── screens/            # App screens (Home, Detail, Favorites)
 │   ├── widgets/            # Reusable UI components
 │   ├── services/           # Firebase services (download, fetch)
